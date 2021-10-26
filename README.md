@@ -4,6 +4,7 @@ dwm is an extremely fast, small, and dynamic window manager for X.
 
 #### Applied patches
 * attachdirection
+* fixborders
 * focusonclick
 * restartsig
 * swallow

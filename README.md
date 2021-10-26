@@ -8,6 +8,7 @@ dwm is an extremely fast, small, and dynamic window manager for X.
 * fibonacci
 * fixborders
 * focusonclick
+* gridmode
 * restartsig
 * swallow
 * xresources
